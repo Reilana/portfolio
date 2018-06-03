@@ -1,0 +1,16 @@
+ <div class="container">
+  <header class="page-header">
+  <ul class="nav nav-tabs pull-right">
+    <li class="active"><a href="index.html"><b>Home</b></a></li>
+    <li role="presentation"><a href="formmockup.html"><b>Form Mockup</b></a></li>
+    <li role="presentation"><a href="finalproject.html"><b>CSS Final Project</b></a></li>
+    <li role="presentation"><a href="contact.html"><b>Contact Me</b></a></li>
+  </ul>
+    <h1>Allison Clark</h1>
+</header>
+<div class="jumbotron">
+<p class="lead">Hello! My name is Allison Clark.
+  I am an inspiring web designer and developer! On this website, I will place my past and current projects.</p>
+</div>
+<footer>&copy;2015 <a href="mailto:allieclarkdev@gmail.com">Allison Clark</a>.</footer>
+</div>
